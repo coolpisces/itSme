@@ -1,2 +1,0 @@
-# itSme
-My personal website
