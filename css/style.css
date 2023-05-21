@@ -179,6 +179,39 @@ body {
   text-shadow:30px -12px 4px rgb(164, 163, 163);
   margin-top:2%;
 }
+#about{
+  width:auto;
+  height: 960px;
+  background-color: #d3ecfc;
+}
+#about-content{
+  background-color: white;
+  height: 960px;
+  margin-left:22.8%;
 
+}
+.active{
+  background-color: #93d3fa;
+}
+#about-me {
+    display: inline-block;
+    max-height: fit-content;
+    position: relative;
+    margin: 50px 0 0 -13px;
+    padding: 0px 100px 0px 90px;
+    background-color: #93d3fa;
+    color: #fff;
+    line-height: 1.1em;
+    font-weight: 400;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.1);
+}
+#about-me-draw {
+   width: 0;
+   height: 0;
+   margin-left: -13px;
+   margin-top:0px;
+   border-right: 13px solid #937b35;
+   border-top: 0px solid transparent;
+   border-bottom: 10px solid transparent;
 
-
+}
