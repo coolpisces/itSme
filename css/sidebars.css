@@ -1,6 +1,7 @@
 body {
     min-height: 100vh;
     min-height: -webkit-fill-available;
+
   }
  
   html {
@@ -11,13 +12,11 @@ body {
     height: 100vh;
     height: -webkit-fill-available;
     max-height: 100vh;
-    overflow-x: auto;
-    overflow-y: hidden;
-  }
-   
-  .scrollarea {
+    overflow-x: hidden;
     overflow-y: auto;
   }
+
+   
   #about-me-draw {
     position: absolute;
     width: 0;
@@ -38,4 +37,22 @@ body {
   background-color:rgb(13,202,240);
   position: absolute;
   left:-15px;
+ }
+
+ .bg-img{
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+ }
+ .kart{
+  min-width: 200px;
+  margin: 20% 30%;
+ }
+ .mid-isim{
+  left:43%;
+  font-size:1.75em;
+  top:35%;
+
+
  }
