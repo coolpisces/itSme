@@ -47,7 +47,7 @@ body {
  }
  .kart{
   min-width: 200px;
-  margin: 20% 30%;
+  margin: 20% auto;
  }
  .mid-isim{
   left:43%;
