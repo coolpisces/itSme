@@ -52,7 +52,9 @@ body {
  .mid-isim{
   left:43%;
   font-size:1.75em;
-  top:35%;
-
+  top:40%;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+ 
 
  }
